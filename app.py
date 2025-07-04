@@ -10,9 +10,9 @@ def hello_world():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png">
+	<link rel="stylesheet" type="text/css" href="https://tinypic.host/images/2025/07/04/imagebec2a90b558531df.png">
     <titleSudoR2spr Repository</title>
-	<link rel="icon" type="image/x-icon" href="https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png">
+	<link rel="icon" type="image/x-icon" href="https://tinypic.host/images/2025/07/04/imagebec2a90b558531df.png">
 
 </head>
 
